@@ -1,7 +1,29 @@
 body
 {
-   
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Loma_Linda_University_Vegetarian_Food_Pyramid.jpg/540px-Loma_Linda_University_Vegetarian_Food_Pyramid.jpg");
+    background-color:aquamarine;
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-repeat: cover;
     color:blue;
+    
 }
 h1 {font-family: Impact, Times, serif;
-text-shadow: 1px 1px #ff0000;}
+text-shadow: 1px 1px #ff0000;
+text-decoration: underline;
+}
+table, th, td {
+    border: 2px solid Green;
+}
+a{
+    color: hotpink;
+}
+tr{
+    background-color:yellow;
+    color:blue;
+}
+th{
+    font-family: Times New Roman;
+}
+
