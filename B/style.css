@@ -1,4 +1,22 @@
+
+
 body
 {
-    color:blue;
+    color:coral;
+}
+h1 {font-family: Impact,Times,serif;
+text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF; }
+h2 {font-family: Courier}
+table, th, td { border: 2px solid blue;}
+body {
+    background-image: url(https://images.pexels.com/photos/2757174/pexels-photo-2757174.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+        background-position: center;
+    background-size: 400px;
+ 
+}
+th {color: blue; 
+text-align: Left;
+font-family: cursive}
+tr{
+    background-color: white
 }
